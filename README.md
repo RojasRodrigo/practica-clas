@@ -12,7 +12,7 @@ Este proyecto contiene clases para representar figuras geométricas en Python.
 - `requirements.txt`: Dependencias necesarias.
 
 ## Cómo ejecutar
-1. **Primeramente verificamos si tenemos instalado python con el siguiente comando:
+1. **Primeramente verificamos si tenemos instalado python con el siguiente comando:**
 ```bash
      python3 --version
 ```
@@ -29,7 +29,7 @@ Este proyecto contiene clases para representar figuras geométricas en Python.
      ```bash
      python3 --version
      ```
-2. ** Instalar de python-tk
+2. ** Instalar de python-tk**
 
     ```bash
         brew install python-tk
