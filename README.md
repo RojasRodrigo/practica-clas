@@ -1,6 +1,4 @@
 # Mi Proyecto de Geometría
-<span style="color:blue">Este es un texto en azul.</span>
-<span style="color: red">Este es un texto en rojo usando HTML.</span>
 
 
 Este proyecto contiene clases para representar figuras geométricas en Python.
